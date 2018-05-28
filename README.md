@@ -1,6 +1,6 @@
-# minicloset_twtt
-Minicloset Twitter Bots and Repocitory for data pools
+# Minicloset Twitter
+Minicloset Twitter Bots and Repository for data pools
 
-# Usage?
+# Usage
 To utilize the information from this pools and interpret in Twitter
 
