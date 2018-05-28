@@ -1,0 +1,117 @@
+###########################################
+#             Minicloset                  #
+#              Data Pools                 #
+###########################################
+
+#Note: Pools time and projection might be adjust properly according to the date / time of the weeks or other circumstance / conditions, Messages post and customer view is the first priority.
+
+  Version: 0.1
+  Build: 001
+  Data: "TwitterbotCheapdonequick"
+
+Pools [01]:
+  Time: 0730
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [01]:
+    Time: 0730
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+Pools [02]:
+  Time: 1230
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [02]:
+    Time: 1230
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+Pools [03]:
+  Time: 1530
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [03]:
+    Time: 1530
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+Pools [04]:
+  Time: 1730
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [04]:
+    Time: 1730
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+#<-- Evening Pools - Should be valid after 6 PM!
+#Midnigth Pools use differences Pools files
+#Evening Pools initiated here --->
+
+Pools [05]:
+  Time: 1830
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [05]:
+    Time: 1830
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+Pools [06]:
+  Time: 2000
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [06]:
+    Time: 2000
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+Pools [07]:
+  Time: 2130
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [07]:
+    Time: 2130
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+Pools [08]:
+  Time: 2230
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [08]:
+    Time: 2230
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+Pools [09]:
+  Time: 2315
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [09]:
+    Time: 2315
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+Pools [10]:
+  Time: 2345
+  - "Lorem Ipzum ...."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Sub_Pools [10]:
+    Time: 2345
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#Pools ended here!
